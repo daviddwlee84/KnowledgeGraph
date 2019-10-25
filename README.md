@@ -13,8 +13,15 @@ TODO
 * Knowledge Representation and Modeling
   * Knowledge Graph Language
     * [OWL](Notes/Language/OWL.md)
+  * [Knowledge Graph Embedding](Notes/KnowledgeRepresentation/KGE.md)
 * Knowledge Storage
 * Knowledge Extraction and Knowledge Mining
+  * Text Related
+    * [Named-Entity Recognition](Notes/KnowledgeExtraction/NER.md)
+    * [Relation Extraction](Notes/KnowledgeExtraction/RE.md)
+    * [Trick](Notes/KnowledgeExtraction/Trick.md)
+      * Distant Supervision
+      * Multitask (Jointly Training)
 * Knowledge Fusion
 * [Knowledge Graph Inference](Notes/KnowledgeGraph/Inference.md)
 
